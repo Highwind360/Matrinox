@@ -1,2 +1,3 @@
 # Matrinox
-A java program for solving, simplifying, and displaying systems of equations.
+A program written in java for solving, simplifying, 
+and displaying systems of equations.
